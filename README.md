@@ -1,2 +1,2 @@
-# shailesh-nair-resume
-latest version of my resume
+# Shailesh Nair's Resume
+This repo if for holding my latest resume
